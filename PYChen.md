@@ -1,3 +1,19 @@
+Last Week (01/19 - 01/23)
+
+* [woodduck]
+	- bug statuts
+      - 2.0M?, UNFIX: 0, FIXED: 0.
+      - 2.0M+, UNFIX: 3, FIXED: 153.
+* [others]
+	-  Bug 1123164 - [Settings]There is no SIM settings icons when you insert SIM2 only in Settings -> Cellular & Data.
+		- got r+ but stuck in gaia-try, take a long long time for fixing it.
+* [Memory Profiler]
+	- try to build flame-kk and firefox desktop with Ting-Yuan's patch, but I got build failed, aks Ting-yuan's help right now.
+
+This week
+*[others]
+	- RTL study.
+
 Last Week (01/12 - 01/16)
 
 * [woodduck]
